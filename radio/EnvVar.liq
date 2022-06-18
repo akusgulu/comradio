@@ -1,0 +1,6 @@
+backend_url = ""
+fallback_path = "res/fallback.mp3"
+jingle_path = "res/jingle.mp3"
+playlist_path = "nextsong.txt"
+radio_url = ""
+radio_passw = ""
